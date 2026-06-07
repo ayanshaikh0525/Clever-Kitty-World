@@ -2210,13 +2210,32 @@
       "drive_file_id": "1k9rrG0nE2ixkBhgrJilJMT48zgG8jTHc"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment / Comedy",
+        "project": "India's Got Latent",
+        "summary": "A stage performance featuring a panel of judges and participants in a comedy talent show format. Participants are presenting their acts while the panel, seated at a desk labeled 'India's Got Latent', interacts with them.",
+        "materials": [
+          "Microphones",
+          "Stage lighting",
+          "Table",
+          "Beverage cans"
+        ],
+        "tools": [
+          "Audio system",
+          "Camera equipment",
+          "Stage signage"
+        ],
+        "viral_hook": "Watch the most awkward and hilarious talent show auditions where judges pull no punches."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Fxl6clPcPKM",
+        "uploaded_at": "2026-06-07T14:39:15.032376",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -2230,6 +2249,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T14:39:11.672905"
     }
   },
   {
