@@ -8851,13 +8851,31 @@
       "drive_file_id": "117R8V6pv3q6HcuHl-fmh-D3siosqsoQT"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Media / Video Editing",
+        "project": "Surreal digital compositing/CGI video",
+        "summary": "This video features a highly edited/digitally manipulated clip showing a cat wearing a harness, 'riding' on the back of a dog while holding an AK-style rifle. The scene is set on a public street with pedestrians and vehicles in the background, utilizing compositing techniques to create a surreal, humorous, or provocative visual.",
+        "materials": [
+          "Footage of a dog",
+          "Footage of a cat",
+          "Prop or digital model of an AK-style rifle",
+          "Harness or vest imagery"
+        ],
+        "tools": [
+          "Video editing software (e.g., Adobe Premiere Pro, DaVinci Resolve)",
+          "Compositing/VFX software (e.g., Adobe After Effects, Nuke)"
+        ],
+        "viral_hook": "The absurd and highly surreal visual of a cat 'heavily armed' and riding a dog like a soldier immediately captures attention through shock value and internet humor."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "Mcw7liPn1wo",
+        "uploaded_at": "2026-06-07T15:07:08.221222",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -8871,6 +8889,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T15:06:57.742337"
     }
   },
   {
