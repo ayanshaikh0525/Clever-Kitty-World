@@ -325,13 +325,30 @@
       "drive_file_id": "1N7sTuKiVINCk2NtQJB8TYUGWzpeVaKHA"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Digital Art / Advertising",
+        "project": "Surreal Brand Promotion",
+        "summary": "A surreal, computer-generated animation showing a giant Prada Re-Edition nylon handbag hovering above the ocean waves, as if seen from the cockpit of a helicopter, creating a high-end luxury marketing visual.",
+        "materials": [
+          "Digital assets",
+          "3D model of Prada handbag"
+        ],
+        "tools": [
+          "3D modeling software (e.g., Blender, Cinema 4D)",
+          "Compositing software (e.g., After Effects)",
+          "AI video generation tools"
+        ],
+        "viral_hook": "A surreal, larger-than-life luxury product placement that blends reality with fantasy, designed to stop the scroll through its unexpected scale and high-production aesthetic."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "LdsAHKyayrI",
+        "uploaded_at": "2026-06-07T14:17:10.624657",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -345,6 +362,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T14:16:55.527845"
     }
   },
   {
