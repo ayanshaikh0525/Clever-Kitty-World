@@ -1717,13 +1717,32 @@
       "drive_file_id": "1aWUujwqMEbVRBh_60K9dCjyHE7kdMOcM"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment",
+        "project": "India's Got Latent",
+        "summary": "A clip from the comedy show 'India's Got Latent' where the judges, including Samay Raina, announce a winner of a talent segment on stage.",
+        "materials": [
+          "Microphones",
+          "Stage furniture",
+          "Table",
+          "Beverages",
+          "Food"
+        ],
+        "tools": [
+          "Microphone",
+          "Audio system"
+        ],
+        "viral_hook": "The tension and excitement of a live talent show announcement featuring popular Indian comedians."
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "zOfWYfr5krc",
+        "uploaded_at": "2026-06-07T14:42:00.400613",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -1737,6 +1756,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-07T14:41:56.305437"
     }
   },
   {
