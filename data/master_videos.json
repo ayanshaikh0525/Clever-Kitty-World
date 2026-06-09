@@ -10148,13 +10148,28 @@
       "drive_file_id": "1dRZ-NXU3NYe7T1J5i7mWSXdBJCG9beAn"
     },
     "processed": {
-      "exists": false,
-      "analysis": {}
+      "exists": true,
+      "analysis": {
+        "category": "Entertainment / Pet Content",
+        "project": "Magic Cat Trick",
+        "summary": "An orange cat dressed in a magician's tuxedo and top hat performs a 'magic trick' where a group of kittens emerges from a black box.",
+        "materials": [
+          "Tuxedo costume for cats",
+          "Magician's top hat",
+          "Magic wand prop",
+          "Small black box/enclosure"
+        ],
+        "tools": [],
+        "viral_hook": "The 'Great Meow-dini' is here to show you a magic trick that will blow your mind!"
+      }
     },
     "platforms": {
       "youtube": {
-        "uploaded": false,
-        "upload_id": ""
+        "uploaded": true,
+        "upload_id": "py-tbZoSFX8",
+        "uploaded_at": "2026-06-09T06:33:52.463192",
+        "attempts": 0,
+        "last_error": ""
       },
       "instagram": {
         "uploaded": false,
@@ -10168,6 +10183,9 @@
         "uploaded": false,
         "upload_id": ""
       }
+    },
+    "workflow": {
+      "processing_completed": "2026-06-09T06:33:48.678313"
     }
   },
   {
